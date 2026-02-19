@@ -39,6 +39,3 @@ Upload a **reference (genuine) signature** and a **test signature**, then verify
 ---
 
 
-Example:
-```md
-![UI Screenshot](assets/ui.png)
