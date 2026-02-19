@@ -1,0 +1,22 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# venv
+.venv/
+venv/
+env/
+
+# mac
+.DS_Store
+
+# streamlit
+.streamlit/
+
+# misc
+*.egg-info/
+dist/
+build/
